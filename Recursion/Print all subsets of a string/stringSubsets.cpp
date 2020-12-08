@@ -1,3 +1,7 @@
+//Given a string print all subsets of it (in any order)
+// I/P: s = "ABC"
+// O/P: "","A","B","C","AB","BC","AC","ABC"
+
 #include <iostream>
 using namespace std;
 
