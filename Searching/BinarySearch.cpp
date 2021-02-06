@@ -32,7 +32,7 @@ int main() {
 
 	int low = 0, high = n - 1, mid = (low + high) / 2;
 
-	while (low < high)
+	while (low <= high)
 	{
 		mid = (low + high) / 2;
 
