@@ -18,7 +18,6 @@ void max_heapify(vector<int> &heap, int i) {
         if (largest != i)
         {
                 swap(heap[largest], heap[i]);
-                cout << heap[largest] << " " << heap[i] << "\n";
                 max_heapify(heap, largest);
         }
 }
