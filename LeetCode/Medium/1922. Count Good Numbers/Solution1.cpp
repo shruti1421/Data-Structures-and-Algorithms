@@ -1,3 +1,5 @@
+https://leetcode.com/problems/count-good-numbers/discuss/1314319/c++-Full-Explanation-power-fast-power-modular-power
+
 #define ll long long int
 const ll MOD = 1e9 + 7;
 
