@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/sort-integers-by-the-power-value/
 struct TrieNode {
     TrieNode *child[26];
     int wordCnt;
