@@ -74,7 +74,7 @@ int main()
     */
 
 
-        traverseInorder(root);
+        traversePreorder(root);
 
         return 0;
 }
