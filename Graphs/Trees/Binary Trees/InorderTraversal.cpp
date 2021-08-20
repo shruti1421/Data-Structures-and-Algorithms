@@ -18,7 +18,7 @@ Node *newNode(int x)
         return temp;
 }
 
-void traversePreorder(Node* root)
+void traverseInorder(Node* root)
 {
         stack<pair<Node*, int>> s;
 
