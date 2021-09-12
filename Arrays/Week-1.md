@@ -18,8 +18,8 @@
 - DONE      https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/ 
 - DONE      https://leetcode.com/problems/swap-for-longest-repeated-character-substring/ 
 - DONE(IMP) https://leetcode.com/problems/subarray-product-less-than-k/ 
-https://leetcode.com/problems/replace-the-substring-for-balanced-string/ 
-https://www.interviewbit.com/problems/first-missing-integer/ 
-https://www.interviewbit.com/problems/repeat-and-missing-number-array/ 
-https://www.interviewbit.com/problems/merge-overlapping-intervals/ 
+- DONE(IMP) https://leetcode.com/problems/replace-the-substring-for-balanced-string/ 
+- DONE(VIMP)https://www.interviewbit.com/problems/first-missing-integer/ 
+- DONE(IMP) https://www.interviewbit.com/problems/repeat-and-missing-number-array/ 
+- DONE      https://www.interviewbit.com/problems/merge-overlapping-intervals/ 
 https://www.interviewbit.com/problems/minimum-lights-to-activate/ 
