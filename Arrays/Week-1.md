@@ -22,4 +22,4 @@
 - DONE(VIMP)https://www.interviewbit.com/problems/first-missing-integer/ 
 - DONE(IMP) https://www.interviewbit.com/problems/repeat-and-missing-number-array/ 
 - DONE      https://www.interviewbit.com/problems/merge-overlapping-intervals/ 
-https://www.interviewbit.com/problems/minimum-lights-to-activate/ 
+- after greedy: https://www.interviewbit.com/problems/minimum-lights-to-activate/ 
