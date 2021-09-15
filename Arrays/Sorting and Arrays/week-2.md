@@ -8,8 +8,8 @@ DONE            3.Assign Cookies to Children
 
 DONE            4.Sort Characters by Frequency
 DONE(IMP)       5.Top K Frequent Words
-                6.3Sum
-                7.3SumClosest
+DONE(IMP)       6.3Sum
+DONE            7.3SumClosest
                 8.4Sum
                 9.Shortest Unsorted Continuous Subarray
                 10.Hotel Bookings Possible
