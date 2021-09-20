@@ -10,19 +10,19 @@ DONE            4.Sort Characters by Frequency
 DONE(IMP)       5.Top K Frequent Words
 DONE(IMP)       6.3Sum
 DONE            7.3SumClosest
-                8.4Sum
-                9.Shortest Unsorted Continuous Subarray
-                10.Hotel Bookings Possible
-                11.Max Distance
-                12.Contains Duplicate - 3
-                13.Largest Number
-                14.Shortest Unsorted Continuous Subarray
-                15.Sort the Matrix Diagonally
-                16.group-anagrams
-                17.sort-colors
-                18.reorganize-string
-                19.majority-element-ii
-                20.distant-barcodes
+DONE            8.4Sum
+DONE(IMP)       9.Shortest Unsorted Continuous Subarray
+DOUBT           10.Hotel Bookings Possible
+DOUBT           11.Max Distance
+DONE            12.Contains Duplicate - 3
+DONE(IMP)       13.Largest Number
+DONE            14.Shortest Unsorted Continuous Subarray
+DONE            15.Sort the Matrix Diagonally
+DONE            16.group-anagrams
+DONE            17.sort-colors
+DONE            18.reorganize-string
+DONE(IMP)       19.majority-element-ii
+DONE            20.distant-barcodes O(N) approach left
 
                 Least Easy (Hard)
-                21.Leetcode IPO
+DONE            21.Leetcode IPO Do it in O(n) time
