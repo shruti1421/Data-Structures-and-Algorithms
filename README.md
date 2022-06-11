@@ -7,3 +7,4 @@ This repository contains all the problems of DSA which I have solved.
 
 # CP
 1. https://codeforces.com/contest/1690/problem/E
+2. https://codeforces.com/contest/1689/problem/C
