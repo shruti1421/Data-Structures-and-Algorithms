@@ -4,6 +4,7 @@ This repository contains all the problems of DSA which I have solved.
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
    1. https://practice.geeksforgeeks.org/problems/minimum-swaps/1#
    2. 0-1 BFS: https://leetcode.com/discuss/general-discussion/1234074/0-1-bfs
+- Linked List: https://practice.geeksforgeeks.org/problems/length-of-longest-palindrome-in-linked-list/1/
 
 
 
