@@ -12,3 +12,6 @@ This repository contains all the problems of DSA which I have solved.
 1. https://codeforces.com/contest/1690/problem/E
 2. https://codeforces.com/contest/1689/problem/C
 3. https://codeforces.com/contest/1697/problem/C
+
+# System Design
+1.Design Parking Lot: https://medium.com/double-pointer/system-design-interview-parking-lot-system-ff2c58167651
