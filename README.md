@@ -5,6 +5,9 @@ This repository contains all the problems of DSA which I have solved.
    1. https://practice.geeksforgeeks.org/problems/minimum-swaps/1#
    2. 0-1 BFS: https://leetcode.com/discuss/general-discussion/1234074/0-1-bfs
 - Linked List: https://practice.geeksforgeeks.org/problems/length-of-longest-palindrome-in-linked-list/1/
+- Increment/Decrement to make array elements distinct: 
+   1.https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+   2.https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 
 
 
