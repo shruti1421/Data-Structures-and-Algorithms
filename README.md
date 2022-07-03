@@ -7,6 +7,7 @@ This repository contains all the problems of DSA which I have solved.
    2. 0-1 BFS: https://leetcode.com/discuss/general-discussion/1234074/0-1-bfs
    3. Weighted BFS(Heap): https://leetcode.com/problems/find-all-people-with-secret/
    4. Centroid of a Tree(toposort): https://leetcode.com/problems/minimum-height-trees/ 
+   5. Increasing paths in a grid: https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/  (there is no cycle in the graph if the path is increasing)
 - Linked List: https://practice.geeksforgeeks.org/problems/length-of-longest-palindrome-in-linked-list/1/
 - Increment/Decrement to make array elements distinct: 
    1.https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
