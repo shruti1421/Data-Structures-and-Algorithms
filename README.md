@@ -14,6 +14,8 @@ This repository contains all the problems of DSA which I have solved.
    1.https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
    2.https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 - DP states + BFS: https://leetcode.com/problems/shortest-path-visiting-all-nodes/ 
+-Divide and Conquer: 
+   1. Merge with Divide and Conquer: https://leetcode.com/problems/merge-k-sorted-lists/
 
 
 
