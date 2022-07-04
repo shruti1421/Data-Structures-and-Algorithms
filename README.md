@@ -16,6 +16,7 @@ This repository contains all the problems of DSA which I have solved.
 - DP states + BFS: https://leetcode.com/problems/shortest-path-visiting-all-nodes/ 
 - Divide and Conquer: 
    1. Merge with Divide and Conquer: https://leetcode.com/problems/merge-k-sorted-lists/
+-  Minimum Swaps to make balanced string: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/ (remove already balanced string) - Greedy  
 
 
 
