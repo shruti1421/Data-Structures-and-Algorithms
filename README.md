@@ -4,6 +4,7 @@ This repository contains all the problems of DSA which I have solved.
    1. Knapsack(divide into two groups): https://leetcode.com/problems/last-stone-weight-ii/description/
    2. Matrix Chain Multiplication: i.  https://leetcode.com/problems/burst-balloons/ 
                                    ii. https://leetcode.com/problems/minimum-cost-to-merge-stones/
+                                   iii. https://www.interviewbit.com/problems/evaluate-expression-to-true/
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
    1. https://practice.geeksforgeeks.org/problems/minimum-swaps/1#
    2. 0-1 BFS: https://leetcode.com/discuss/general-discussion/1234074/0-1-bfs
