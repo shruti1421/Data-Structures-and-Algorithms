@@ -6,6 +6,17 @@ This repository contains all the problems of DSA which I have solved.
                                    ii. https://leetcode.com/problems/minimum-cost-to-merge-stones/
                                    iii. https://www.interviewbit.com/problems/evaluate-expression-to-true/
                                    iv. https://leetcode.com/problems/super-egg-drop/ (IMP)
+   3. Kadane's Algo:
+      - Maximum difference of 0's and 1's in a binary string
+      - Maximum Sum Circular array
+      - Smallest sum contiguous subarray
+      - Largest sum increasing contiguous subarray
+      - Maximum Product Subarray
+      - Largest sum contiguous subarray with only non-negative elements.
+      - Largest sum contiguous subarray with unique elements.
+      - Maximum Alternating Sum Subarray
+      - **Maximum Sum Rectangle In A 2D Matrix(IMP)
+
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
    1. https://practice.geeksforgeeks.org/problems/minimum-swaps/1#
    2. 0-1 BFS: https://leetcode.com/discuss/general-discussion/1234074/0-1-bfs
