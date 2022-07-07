@@ -16,6 +16,18 @@ This repository contains all the problems of DSA which I have solved.
       - Largest sum contiguous subarray with unique elements.
       - Maximum Alternating Sum Subarray
       - **Maximum Sum Rectangle In A 2D Matrix(IMP)
+  4. LCS:
+      - Longest Common Subsequence and Print LCS: https://leetcode.com/problems/longest-common-subsequence/
+      - Shortest Common Supersequence and Print SCS: https://leetcode.com/problems/shortest-common-supersequence/
+      - Longest Repeating subsequence: https://www.geeksforgeeks.org/longest-repeating-subsequence/
+      - Length of largest subsequence of which is a substring in b: https://practice.geeksforgeeks.org/problems/find-length-of-longest-subsequence4905/1/#
+      - No. of matching subsequences: https://leetcode.com/problems/number-of-matching-subsequences/
+      - Find no. of times a string occurs as a subsequence: https://practice.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1/#
+      - Longest Palindromic subsequence: https://leetcode.com/problems/longest-palindromic-subsequence/
+      - Longest Palindromic substring: https://leetcode.com/problems/longest-palindromic-substring/
+      - Count of palindromic substrings: https://leetcode.com/problems/palindromic-substrings/
+      - Minimum no. of insertions to make string palindrom: https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+      - Min no. of deletions and insertions to transform string:https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1/
 
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
    1. https://practice.geeksforgeeks.org/problems/minimum-swaps/1#
