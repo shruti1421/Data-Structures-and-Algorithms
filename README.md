@@ -29,12 +29,17 @@ This repository contains all the problems of DSA which I have solved.
       - Minimum no. of insertions to make string palindrom: https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
       - Min no. of deletions and insertions to transform string:https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1/
 
+   5. String DP:
+      - Regular Expression matching: https://leetcode.com/problems/regular-expression-matching/
+      - Longest Valid Parenthesis: https://leetcode.com/problems/longest-valid-parentheses/
+
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
    1. https://practice.geeksforgeeks.org/problems/minimum-swaps/1#
    2. 0-1 BFS: https://leetcode.com/discuss/general-discussion/1234074/0-1-bfs
    3. Weighted BFS(Heap): https://leetcode.com/problems/find-all-people-with-secret/
    4. Centroid of a Tree(toposort): https://leetcode.com/problems/minimum-height-trees/ 
    5. Increasing paths in a grid: https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/  (there is no cycle in the graph if the path is increasing)
+   6. BFS: https://leetcode.com/problems/jump-game-ii, 
 - Linked List: https://practice.geeksforgeeks.org/problems/length-of-longest-palindrome-in-linked-list/1/
 - Increment/Decrement to make array elements distinct: 
    1.https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
@@ -42,7 +47,14 @@ This repository contains all the problems of DSA which I have solved.
 - DP states + BFS: https://leetcode.com/problems/shortest-path-visiting-all-nodes/ 
 - Divide and Conquer: 
    1. Merge with Divide and Conquer: https://leetcode.com/problems/merge-k-sorted-lists/
--  Minimum Swaps to make balanced string: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/ (remove already balanced string) - Greedy  
+-  Minimum Swaps to make balanced string: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/ (remove already balanced string) - Greedy 
+- Monoqueue: 
+   1. https://leetcode.com/problems/jump-game-vi/
+   2. https://leetcode.com/problems/sliding-window-maximum/
+- Morris Traversal(Inorder and preorder traversal in amortized O(N) TC and O(1) SC): https://www.youtube.com/watch?v=80Zug6D1_r4 (Based on binary tree threading)
+   1.https://leetcode.com/problems/recover-binary-search-tree/
+- Next Smaller or Greater: https://leetcode.com/problems/largest-rectangle-in-histogram/
+- String(Greedy): https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 
 
 
