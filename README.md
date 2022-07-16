@@ -33,6 +33,9 @@ This repository contains all the problems of DSA which I have solved.
       - Regular Expression matching: https://leetcode.com/problems/regular-expression-matching/
       - Longest Valid Parenthesis: https://leetcode.com/problems/longest-valid-parentheses/
 
+   6. DP GRID: 
+      - Within k moves: https://leetcode.com/problems/out-of-boundary-paths/, https://leetcode.com/problems/knight-probability-in-chessboard/ 
+
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
    1. https://practice.geeksforgeeks.org/problems/minimum-swaps/1#
    2. 0-1 BFS: https://leetcode.com/discuss/general-discussion/1234074/0-1-bfs
