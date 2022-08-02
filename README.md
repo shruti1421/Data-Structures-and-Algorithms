@@ -59,6 +59,7 @@ This repository contains all the problems of DSA which I have solved.
    1.https://leetcode.com/problems/recover-binary-search-tree/
 - Next Smaller or Greater: https://leetcode.com/problems/largest-rectangle-in-histogram/
 - String(Greedy): https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+- Search in 2D sorted-matrix: https://leetcode.com/problems/search-a-2d-matrix-ii/, (Diff Version) https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 
 
 
