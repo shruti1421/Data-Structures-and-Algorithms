@@ -61,6 +61,9 @@ This repository contains all the problems of DSA which I have solved.
 - String(Greedy): https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 - Search in 2D sorted-matrix: https://leetcode.com/problems/search-a-2d-matrix-ii/, (Diff Version) https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 
+- Missing Number:https://www.interviewbit.com/blog/find-the-missing-number/ , https://www.interviewbit.com/problems/repeat-and-missing-number-array/ , https://www.interviewbit.com/problems/first-missing-integer/
+
+
 
 
 # CP
