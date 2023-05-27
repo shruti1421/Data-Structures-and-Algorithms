@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms
-This repository contains all the problems of DSA which I have solved.
+This repository contains all the DSA problems that I have solved.
 - DP: https://leetcode.com/discuss/study-guide/1000929/Solved-all-dynamic-programming-(dp)-problems-in-7-months.
    1. Knapsack(divide into two groups): https://leetcode.com/problems/last-stone-weight-ii/description/
    2. Matrix Chain Multiplication: i.  https://leetcode.com/problems/burst-balloons/ 
